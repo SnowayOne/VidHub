@@ -6,3 +6,11 @@ body{
 header{
     border-bottom: double 4px rgb(131, 7, 7);
 }
+h1{
+}
+p{
+    font-size: 8px;
+}
+.video{
+    justify-content: right;
+}
