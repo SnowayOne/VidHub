@@ -3,3 +3,6 @@ body{
     background-color: darkred;
     color: white;
 }
+header{
+    border-bottom: double 4px rgb(131, 7, 7);
+}
